@@ -18,8 +18,4 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 <li>Clothing and Electronics category
 </ul>
 
-## Contact :-
-LinkedIn : https://www.linkedin.com/in/vikas-vachheta/ </br>
-Email : vikasvachheta.ds@gmail.com
-
 Thank you!
